@@ -6,10 +6,10 @@ This report is submitted in partial fulfillment of the requirements for the degr
 Completed and compiled by- 
 Debjit Basu
 Saad Mohammad        
-Vidhi Mantri      
+Vidhi Mantri
 Shreyansh Agarwal     
-Ved Anand           
+Ved Anand
 Ayanika Bera       
-Nikhil            
-Samridh Agarwal    
+Nikhil
+Samridh Agarwal
 Adesh Kumar Dubey    
