@@ -4,12 +4,12 @@ This report is submitted in partial fulfillment of the requirements for the degr
 (Artificial Intelligence Machine Learning & Computer Science and Business Systems) of Maulana Abul Kalam Azad University of Technology.
  
 Completed and compiled by- 
-Debjit Basu
-Saad Mohammad        
-Vidhi Mantri
-Shreyansh Agarwal     
-Ved Anand
-Ayanika Bera       
-Nikhil
-Samridh Agarwal
-Adesh Kumar Dubey    
+1. Debjit Basu
+2. Saad Mohammad        
+3. Vidhi Mantri
+4. Shreyansh Agarwal     
+5. Ved Anand
+6. Ayanika Bera       
+7. Nikhil
+8. Samridh Agarwal
+9. Adesh Kumar Dubey    
